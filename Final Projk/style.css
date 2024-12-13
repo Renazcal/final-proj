@@ -1,0 +1,28 @@
+#CHIAOTZUSCULPTURE  {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpTzUIgFKXIBhJTmxdxZ2PfBJer7jHhgXPg&s');
+
+   
+}
+
+.skill{
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+}
+ 
+
+
+a[href]{
+    
+    color: aqua;
+}
+
+
+
+body {
+    color: white;
+}
+* {
+    padding: 5px;
+    
+  }
